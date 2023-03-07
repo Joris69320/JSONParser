@@ -86,7 +86,7 @@ public class JSONParser {
         };
     }
 
-    public static boolean isPrimitiveList(List<?> list){
+    private static boolean isPrimitiveList(List<?> list){
         return isPrimitiveObject(list.get(0));
     }
 }
