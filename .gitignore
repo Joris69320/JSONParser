@@ -9,7 +9,6 @@ target/
 *.iml
 *.ipr
 src/main/java/fr/thivard/jsonparser/Main.java
-src/main/java/fr/thivard/jsonparser/models/
 Users.json
 
 ### Eclipse ###
